@@ -60,7 +60,7 @@ const expectations = [
       richText: [],
     },
     xml: '<si><t></t></si>',
-    parsedModel: {},
+    parsedModel: '',
     tests: ['parse'],
   },
   {
